@@ -23,6 +23,7 @@
 #endif
 
 // external headers included here
+#include "libComAPI.h"
 #include "caProto.h"
 
 #ifdef epicsExportSharedSymbols_caHdrLargeArrayh
